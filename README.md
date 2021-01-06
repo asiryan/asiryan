@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am C#/Python developer interesting to digital signal processing, deep learning.
+
 <!--
 **asiryan/asiryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
