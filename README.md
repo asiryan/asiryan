@@ -1,7 +1,15 @@
 ### Hi there 👋
 
-I am C#/Python/MATLAB developer interesting to digital signal processing and deep learning.
+I am 
+🏃 student of master degree of [computer science](https://en.misis.ru/),
+:octocat: C#/Python/MATLAB developer,
+⚡ [ONNX Model Zoo](https://github.com/onnx/models) contributor,
+🔭 team-lead in an AI startup in Skolkovo,
+⭐ interesting to digital signal processing and deep learning,
 
+✉️ Contact me: [dmc5mod@yandex.ru](dmc5mod@yandex.ru)
+
+C#/Python/MATLAB developer interesting to digital signal processing and deep learning
 <!--
 **asiryan/asiryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
