@@ -4,7 +4,7 @@
 :octocat: C#/Python/MATLAB developer,  
 ⚡ [ONNX Model Zoo](https://github.com/onnx/models) contributor,  
 🔭 team-lead in an AI startup in Skolkovo,  
-⭐ interesting to digital signal processing and deep learning,  
+⭐ interesting to digital signal processing and deep learning.  
   
 ✉️ Contact me: [dmc5mod@yandex.ru](dmc5mod@yandex.ru)  
 <!--
