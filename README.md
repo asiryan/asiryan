@@ -1,10 +1,9 @@
 ### Hi there 👋, I'm
 
-🏃 student of master degree of [computer science](https://en.misis.ru/),  
+🏃 student of master degree of [computer science](https://en.misis.ru/) interesting to digital signal processing and deep learning,  
 :octocat: C#/Python/MATLAB developer,  
 ⚡ [ONNX Model Zoo](https://github.com/onnx/models) contributor,  
-🔭 team-lead in an AI startup in Skolkovo,  
-⭐ interesting to digital signal processing and deep learning.  
+🔭 team-lead in an AI startup in Skolkovo.  
   
 ✉️ Contact me: [dmc5mod@yandex.ru](dmc5mod@yandex.ru)  
 <!--
