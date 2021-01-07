@@ -8,8 +8,6 @@ I am
 ⭐ interesting to digital signal processing and deep learning,  
   
 ✉️ Contact me: [dmc5mod@yandex.ru](dmc5mod@yandex.ru)  
-
-C#/Python/MATLAB developer interesting to digital signal processing and deep learning
 <!--
 **asiryan/asiryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
