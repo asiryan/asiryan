@@ -3,7 +3,7 @@
 🏃 student of master degree of [computer science](https://en.misis.ru/),  
 :octocat: C#/Python/MATLAB developer,  
 ⚡ [ONNX Model Zoo](https://github.com/onnx/models) contributor,  
-🔭 team-lead in an AI startup in [Skolkovo](https://sk.ru/),  
+🔭 team-lead in an AI Start-Up in [Skolkovo](https://sk.ru/),  
 ⭐ researcher interested in digital signal processing and deep learning.  
   
 💎 NuGet Gallery: [asiryan](https://www.nuget.org/profiles/asiryan)  
