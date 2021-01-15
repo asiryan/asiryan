@@ -7,7 +7,7 @@
 ⭐ researcher interested in digital signal processing and deep learning.  
   
 💎 NuGet Gallery: [asiryan](https://www.nuget.org/profiles/asiryan)  
-✉️ Contact me: [dmc5mod@yandex.ru](dmc5mod@yandex.ru)  
+✉️ E-mail: [dmc5mod@yandex.ru](dmc5mod@yandex.ru)  
 <!--
 **asiryan/asiryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
