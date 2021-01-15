@@ -7,7 +7,7 @@
 ⭐ researcher interested in digital signal processing and deep learning.  
 
 📰 **Last publication:** *V.M. Asiryan et al. Image Compression Using Discrete Weyl-Heisenberg Transform ([IEEE](https://ieeexplore.ieee.org/document/9117707))*  
-💎 **NuGet Gallery:** *UMapx.NET, FaceONNX, OpenJDK.BigMath and [more](https://www.nuget.org/profiles/asiryan)*  
+💎 **NuGet Gallery:** *UMapx.NET, FaceONNX, OpenJDK.BigMathNET and [more](https://www.nuget.org/profiles/asiryan)*  
 ✉️ **E-mail:** *[dmc5mod@yandex.ru](dmc5mod@yandex.ru)*  
 <!--
 **asiryan/asiryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
