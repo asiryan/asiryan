@@ -5,7 +5,8 @@
 ⚡ [ONNX Model Zoo](https://github.com/onnx/models) contributor,  
 🔭 team-lead in [Skolkovo](https://sk.ru/) AI Start-Up,  
 ⭐ researcher interested in digital signal processing and deep learning.  
-  
+
+📰 Last publication: V.M. Asiryan et al. [Image Compression Using Discrete Weyl-Heisenberg Transform](https://ieeexplore.ieee.org/document/9117707)  
 💎 NuGet Gallery: [asiryan](https://www.nuget.org/profiles/asiryan)  
 ✉️ E-mail: [dmc5mod@yandex.ru](dmc5mod@yandex.ru)  
 <!--
