@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm
 
 🏃 student of master degree of [computer science](https://en.misis.ru/),  
-:octocat: C#/Python/MATLAB developer,  
+:octocat: C# / Python / MATLAB developer,  
 ⚡ [ONNX Model Zoo](https://github.com/onnx/models) contributor,  
 🔭 team-lead in [Skolkovo](https://sk.ru/) AI Start-Up,  
 ⭐ researcher interested in digital signal processing and deep learning.  
