@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm
 
+🏆 bachelor degree of [information technology](https://mtuci.ru/?lang=en),  
 🏃 student of master degree of [computer science](https://en.misis.ru/),  
 :octocat: C# / Python / MATLAB developer,  
 ⚡ [ONNX Model Zoo](https://github.com/onnx/models) contributor,  
