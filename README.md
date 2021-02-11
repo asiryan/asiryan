@@ -5,7 +5,7 @@
 :octocat: C# / Python / MATLAB developer,  
 ⚡ [ONNX Model Zoo](https://github.com/onnx/models) contributor,  
 🔭 team-lead in [Skolkovo](https://sk.ru/) AI Start-Up,  
-⭐ researcher interested in digital signal processing and deep learning.  
+⭐ [researcher](https://www.researchgate.net/profile/Valery_Asiryan) interested in digital signal processing and deep learning.  
 
 📰 **Publications:** *V.M. Asiryan et al. Image Compression Using Discrete Weyl-Heisenberg Transform ([IEEE](https://ieeexplore.ieee.org/document/9117707)) and [more](Publications)*  
 💎 **NuGet Gallery:** *UMapx.NET, FaceONNX, OpenJDK.BigMathNET and [more](https://www.nuget.org/profiles/asiryan)*  
