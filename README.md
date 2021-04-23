@@ -10,6 +10,8 @@
 📰 **Publications:** *V.M. Asiryan et al. Image Compression Using Discrete Weyl-Heisenberg Transform ([IEEE](https://ieeexplore.ieee.org/document/9117707)) and [more](Publications)*  
 💎 **NuGet Gallery:** *UMapx.NET, FaceONNX, OpenJDK.BigMathNET and [more](https://www.nuget.org/profiles/asiryan)*  
 ✉️ **E-mail:** *[dmc5mod@yandex.ru](mailto:dmc5mod@yandex.ru)*  
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=asiryan)](https://github.com/anuraghazra/github-readme-stats)
   
 *Every journey begins in the mind...*
 <!--
