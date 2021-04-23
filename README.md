@@ -11,8 +11,6 @@
 💎 **NuGet Gallery:** *UMapx.NET, FaceONNX, OpenJDK.BigMathNET and [more](https://www.nuget.org/profiles/asiryan)*  
 ✉️ **E-mail:** *[dmc5mod@yandex.ru](mailto:dmc5mod@yandex.ru)*  
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=asiryan)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **asiryan/asiryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
