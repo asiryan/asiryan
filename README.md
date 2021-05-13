@@ -8,7 +8,7 @@
 ⭐ [researcher](https://www.researchgate.net/profile/Valery_Asiryan) interested in digital signal processing and deep learning.  
 
 💎 **NuGet:** *UMapx, FaceONNX, OpenJDK.BigMathNET and [more](https://www.nuget.org/profiles/asiryan)*  
-💎 **PyPI:** *[caffe2onnx](https://pypi.org/project/caffe2onnx/)*  
+💎 **PyPI:** *caffe2onnx and [more](https://pypi.org/user/asiryan/)*  
 📰 **Publications:** *V.M. Asiryan et al. Image Compression Using Discrete Weyl-Heisenberg Transform ([IEEE](https://ieeexplore.ieee.org/document/9117707)) and [more](Publications)*  
 ✉️ **E-mail:** *[dmc5mod@yandex.ru](mailto:dmc5mod@yandex.ru)*  
 
