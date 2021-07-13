@@ -4,7 +4,7 @@
 🏆 master degree of [computer science](https://en.misis.ru/),  
 :octocat: C# / Python / MATLAB developer,  
 ⚡ [ONNX Model Zoo](https://github.com/onnx/models) contributor,  
-🔭 Chief technical officer in [Skolkovo](https://sk.ru/) AI Start-Up,  
+🔭 Chief technical officer in [Skolkovo](https://sk.ru/) [AI Start-Up](https://smartmealservice.com/en/home-2),  
 ⭐ [researcher](https://www.researchgate.net/profile/Valery_Asiryan) interested in digital signal processing and deep learning.  
 
 💎 **NuGet:** *UMapx, FaceONNX, OpenJDK.BigMathNET and [more](https://www.nuget.org/profiles/asiryan)*  
