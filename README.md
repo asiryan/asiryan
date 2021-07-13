@@ -9,7 +9,7 @@
 
 💎 **NuGet:** *UMapx, FaceONNX, OpenJDK.BigMathNET and [more](https://www.nuget.org/profiles/asiryan)*  
 💎 **PyPI:** *caffe2onnx, faceonnx and [more](https://pypi.org/user/asiryan/)*  
-📰 **Publications:** *V.M. Asiryan et al. Image Compression Using Discrete Weyl-Heisenberg Transform ([IEEE](https://ieeexplore.ieee.org/document/9117707)) and [more](Publications)*  
+📰 **Publications:** *V.M. Asiryan, V.P. Volchkov, N.V. Papulovskaya - Weyl-Heisenberg Transform Capabilities in JPEG Compression Standard ([IEEE](https://ieeexplore.ieee.org/document/9455005)) and [more](Publications)*  
 ✉️ **E-mail:** *[dmc5mod@yandex.ru](mailto:dmc5mod@yandex.ru)*  
 
 <!--
