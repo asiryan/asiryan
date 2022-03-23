@@ -10,7 +10,7 @@
 
 💎 **NuGet:** *UMapx, FaceONNX, OpenJDK.BigMathNET and [more](https://www.nuget.org/profiles/asiryan)*  
 💎 **PyPI:** *caffe2onnx, faceonnx and [more](https://pypi.org/user/asiryan/)*  
-💎 **Publications:** *V.M. Asiryan, V.P. Volchkov, N.V. Papulovskaya - Weyl-Heisenberg Transform Capabilities in JPEG Compression Standard ([IEEE](https://ieeexplore.ieee.org/document/9455005)) and [more](Publications)*  
+💎 **Publications:** *V.M. Asiryan, et al - Weyl-Heisenberg Transform Capabilities in JPEG Compression Standard ([IEEE](https://ieeexplore.ieee.org/document/9455005)) and [more](Publications)*  
 
 <!--
 **asiryan/asiryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
