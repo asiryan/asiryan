@@ -4,10 +4,8 @@
 🏆 master degree of [computer science](https://en.misis.ru/)  
 🏆 chief technical officer in [SMS](https://smartmealservice.com/en/home-2) [[Sk]](https://sk.ru/)  
 🏆 team lead in [DM Basis](https://www.basisauto.ru/) [[Sk]](https://sk.ru/)  
-
 ⭐ C# / Python / MATLAB developer  
 ⭐ [researcher](https://www.researchgate.net/profile/Valery_Asiryan) interested in digital signal processing and deep learning  
-
 ⚡ **NuGet:** *UMapx, FaceONNX, OpenJDK.BigMathNET and [more](https://www.nuget.org/profiles/asiryan)*  
 ⚡ **PyPI:** *caffe2onnx, faceonnx and [more](https://pypi.org/user/asiryan/)*  
 ⚡ **Publications:** *V.M. Asiryan, et al - Weyl-Heisenberg Transform Capabilities in JPEG Compression Standard ([IEEE](https://ieeexplore.ieee.org/document/9455005)) and [more](Publications)*  
