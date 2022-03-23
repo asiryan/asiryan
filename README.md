@@ -12,8 +12,9 @@
 ⚡ **PyPI:** *caffe2onnx, faceonnx and [more](https://pypi.org/user/asiryan/)*  
 ⚡ **Publications:** *V.M. Asiryan, et al - Weyl-Heisenberg Transform Capabilities in JPEG Compression Standard ([IEEE](https://ieeexplore.ieee.org/document/9455005)) and [more](Publications)*  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asiryan)](https://github.com/anuraghazra/github-readme-stats)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asiryan)](https://git.io/streak-stats)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asiryan)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asiryan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
