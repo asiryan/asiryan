@@ -4,7 +4,7 @@
 🏆 master degree of [computer science](https://en.misis.ru/)  
 ⚡ team lead in [DM Basis](https://www.basisauto.ru/) [[Skolkovo]](https://sk.ru/)  
 ⚡ chief technical officer in [SMS](https://smartmealservice.com/en/home-2) [[Skolkovo]](https://sk.ru/)  
-⭐ C# / Python / MATLAB developer  
+⭐ C# / Python / MATLAB [developer](https://github.com/asiryan)  
 ⭐ researcher interested in [digital signal processing and deep learning](https://www.researchgate.net/profile/Valery_Asiryan)  
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asiryan)](https://github.com/anuraghazra/github-readme-stats)  
