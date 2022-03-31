@@ -9,9 +9,9 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asiryan)](https://github.com/anuraghazra/github-readme-stats)  
 
+⚡ **Publications:** *V.M. Asiryan, et al - Weyl-Heisenberg Transform Capabilities in JPEG Compression Standard ([IEEE](https://ieeexplore.ieee.org/document/9455005)) and [more](Publications)*  
 ⚡ **NuGet:** *UMapx, FaceONNX, OpenJDK.BigMathNET and [more](https://www.nuget.org/profiles/asiryan)*  
 ⚡ **PyPI:** *caffe2onnx [more](https://pypi.org/user/asiryan/)*  
-⚡ **Publications:** *V.M. Asiryan, et al - Weyl-Heisenberg Transform Capabilities in JPEG Compression Standard ([IEEE](https://ieeexplore.ieee.org/document/9455005)) and [more](Publications)*  
 
 <!--
 **asiryan/asiryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
