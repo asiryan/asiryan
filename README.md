@@ -11,7 +11,7 @@
 ⚡ **NuGet:** *UMapx, FaceONNX, OpenJDK.BigMathNET and [more](https://www.nuget.org/profiles/asiryan)*  
 ⚡ **PyPI:** *caffe2onnx and [more](https://pypi.org/user/asiryan/)*  
 
-📧 **E-mail**: [dmc5mod@yandex.ru](mailto:dmc5mod@yandex.ru)  
+📧 **E-mail**: [asiryanvalery@gmail.com](mailto:asiryanvalery@gmail.com)  
 💬 **Telegram**: [awesomeuk](https://t.me/awesomeuk)
 
 <!--
