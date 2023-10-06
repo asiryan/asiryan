@@ -13,7 +13,12 @@
 ⚡ **PyPI:** *caffe2onnx and [more](https://pypi.org/user/asiryan/)*  
 
 📧 **E-mail**: [asiryanvalery@gmail.com](mailto:asiryanvalery@gmail.com)  
-💬 **Telegram**: [awesomeuk](https://t.me/awesomeuk)
+💬 **Telegram**: [awesomeuk](https://t.me/awesomeuk)  
+
+### ☕️ Would you like to support me or buy me a coffee?
+⭐️ **USDT (TRC20)**: TQuQiBY5wnV9Uam1ahxPa34iRSm37g1RJj  
+⭐️ **BTC**: 14PurPkN2AznasQTcDP7HtmMEQbMWFTELR  
+⭐️ **TON**: UQDCoVoUAuSXDmKhsPoINpnHhQ6XU_iZL3zS0xsYF4rbnhmR  
 
 <!--
 **asiryan/asiryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
