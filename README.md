@@ -18,6 +18,7 @@
 💬 **Telegram**: [awesomeuk](https://t.me/awesomeuk)  
 
 ### ☕️ Would you like to support me or buy me a coffee?
+❤️ **USD**: [Become my GitHub sponsor](https://github.com/sponsors/asiryan)  
 💎 **USDT (TRC20)**: TQuQiBY5wnV9Uam1ahxPa34iRSm37g1RJj  
 💎 **BTC**: 14PurPkN2AznasQTcDP7HtmMEQbMWFTELR  
 💎 **TON**: UQDCoVoUAuSXDmKhsPoINpnHhQ6XU_iZL3zS0xsYF4rbnhmR  
