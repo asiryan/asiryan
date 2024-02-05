@@ -14,14 +14,15 @@
 ⚡️ **Replicate:** *[me on replicate](https://replicate.com/asiryan)*  
 ⚡️ **HuggingFace:** *[me on huggingface](https://huggingface.co/asiryan)*
 
-📧 **E-mail**: [asiryanvalery@gmail.com](mailto:asiryanvalery@gmail.com)  
-💬 **Telegram**: [awesomeuk](https://t.me/awesomeuk)  
-
 ### ☕️ Would you like to support me or buy me a coffee?
 ❤️ **USD**: [Become my GitHub sponsor](https://github.com/sponsors/asiryan)  
 💎 **USDT (TRC20)**: TQuQiBY5wnV9Uam1ahxPa34iRSm37g1RJj  
 💎 **BTC**: 14PurPkN2AznasQTcDP7HtmMEQbMWFTELR  
 💎 **TON**: UQDCoVoUAuSXDmKhsPoINpnHhQ6XU_iZL3zS0xsYF4rbnhmR  
+
+### 💬 Want to contact me or order a job?
+📧 **E-mail**: [asiryanvalery@gmail.com](mailto:asiryanvalery@gmail.com)  
+🚀 **Telegram**: [awesomeuk](https://t.me/awesomeuk)  
 
 <!--
 **asiryan/asiryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
