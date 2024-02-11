@@ -20,7 +20,7 @@
 💎 **BTC**: 14PurPkN2AznasQTcDP7HtmMEQbMWFTELR  
 💎 **TON**: UQDCoVoUAuSXDmKhsPoINpnHhQ6XU_iZL3zS0xsYF4rbnhmR  
 
-### 💬 Want to contact me or order a job?
+### 💬 Want to contact me or offer/order a job?
 📧 **E-mail**: [asiryanvalery@gmail.com](mailto:asiryanvalery@gmail.com)  
 🚀 **Telegram**: [awesomeuk](https://t.me/awesomeuk)  
 
