@@ -22,7 +22,7 @@
 
 ### 💬 Want to contact me or offer/order a job?
 📧 **E-mail**: [asiryanvalery@gmail.com](mailto:asiryanvalery@gmail.com)  
-🚀 **Telegram**: [awesomeuk](https://t.me/awesomeuk)  
+🚀 **Telegram**: [asiryan](https://t.me/asiryan)  
 
 <!--
 **asiryan/asiryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
