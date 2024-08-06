@@ -4,8 +4,8 @@
 🎓 master of [computer science](https://en.misis.ru/)  
 🏆 chief technical officer in [DM Basis Technologies](https://www.dmbasis.com/) [[Skolkovo]](https://sk.ru/)  
 🏆 chief technical officer in [Retail Robotics Solutions](https://rrs-catering.eu) [[Astana Hub]](https://astanahub.com/en/)[/[Station F]](https://stationf.co/)  
-⭐️ C# / Python / MATLAB [developer](https://github.com/asiryan)  
 ⭐️ researcher interested in [digital signal processing & deep learning](https://www.researchgate.net/profile/Valery_Asiryan)  
+⭐️ C# / Python / MATLAB [developer](https://github.com/asiryan)  
 
 ⚡️ **Publications:** *V.M. Asiryan, et al - Weyl-Heisenberg Transform Capabilities in JPEG Compression Standard ([IEEE](https://ieeexplore.ieee.org/document/9455005)) and [more](Publications)*  
 ⚡️ **Contributions:** *[onnx/models](https://github.com/onnx/models) - a collection of pre-trained, state-of-the-art models in the ONNX format*  
