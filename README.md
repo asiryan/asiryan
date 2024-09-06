@@ -16,9 +16,9 @@
 
 ### ☕️ Want to support me or buy me a coffee?
 ❤️ **USD**: [Become my GitHub sponsor](https://github.com/sponsors/asiryan)  
-💎 **USDT (TRC20)**: TQuQiBY5wnV9Uam1ahxPa34iRSm37g1RJj  
-💎 **BTC**: 14PurPkN2AznasQTcDP7HtmMEQbMWFTELR  
-💎 **TON**: UQDCoVoUAuSXDmKhsPoINpnHhQ6XU_iZL3zS0xsYF4rbnhmR  
+💎 **USDT (TRC20)**: TP9JMAYa6FFGgTCVTXb6ZNtE8pjzfLyhed
+💎 **BTC**: 1GFNzVgbvTGZQRfo14pz9VUxNDVG5C7SZL
+💎 **TON**: UQAba_5Uw2grgDb6AOjN7j2ME30aIrXmhxeJ9wTCYm9-x037
 
 ### 💬 Want to contact me or offer a job?
 📧 **E-mail**: [asiryanvalery@gmail.com](mailto:asiryanvalery@gmail.com)  
