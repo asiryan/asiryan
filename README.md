@@ -16,7 +16,7 @@
 
 ### ☕️ Want to support me or buy me a coffee?
 ❤️ **USD**: [Become my GitHub sponsor](https://github.com/sponsors/asiryan)  
-💎 **USDT (TRC20)**: TP9JMAYa6FFGgTCVTXb6ZNtE8pjzfLyhed  
+💎 **USDT (TRC20)**: TFQNMumYcVBL71utjMh545VZCkApBjGike  
 💎 **BTC**: 1GFNzVgbvTGZQRfo14pz9VUxNDVG5C7SZL  
 💎 **TON**: UQAba_5Uw2grgDb6AOjN7j2ME30aIrXmhxeJ9wTCYm9-x037  
 
