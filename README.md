@@ -9,7 +9,7 @@
 
 ⚡️ **Publications:** *V. Asiryan - On the Irreducibility of the Cuboid Polynomial P_{a,u}(t) ([arXiv:2510.07643](https://arxiv.org/abs/2510.07643)) and [more](Publications)*  
 ⚡️ **Contributions:** *[onnx/models](https://github.com/onnx/models) - a collection of pre-trained, state-of-the-art models in the ONNX format*  
-⚡️ **NuGet:** *UMapx, FaceONNX, OpenJDK.BigMathNET and [more](https://www.nuget.org/profiles/asiryan)* // 🔥 *over* ***400k*** *downloads*  
+⚡️ **NuGet:** *UMapx, FaceONNX, OpenJDK.BigMathNET and [more](https://www.nuget.org/profiles/asiryan)* // 🔥 *over* ***450k*** *downloads*  
 ⚡️ **PyPI:** *caffe2onnx and [more](https://pypi.org/user/asiryan/)*  
 🔗 **Replicate:** *[me on replicate](https://replicate.com/asiryan)*  
 🔗 **HuggingFace:** *[me on huggingface](https://huggingface.co/asiryan)*
