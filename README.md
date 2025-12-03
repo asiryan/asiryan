@@ -2,7 +2,7 @@
 
 🎓 bachelor of [information technology](https://en.mtuci.ru/)  
 🎓 master of [computer science](https://en.misis.ru/)  
-🏆 chief technical officer in [DM Basis Technologies](https://www.dmbasis.com/) [[Skolkovo]](https://sk.ru/)  
+🏆 chief technical officer in [DM Basis](https://dmbasis.com/) [[Skolkovo]](https://sk.ru/)  
 🏆 chief technical officer in [Retail Robotics Solutions](https://rrs-catering.eu) [[Astana Hub]](https://astanahub.com/en/)[[Station F]](https://stationf.co/)  
 ⭐️ researcher interested in [math, digital signal processing, and deep learning](https://www.researchgate.net/profile/Valery_Asiryan)  
 ⭐️ C# / Python / MATLAB [developer](https://github.com/asiryan)  
