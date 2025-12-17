@@ -7,8 +7,8 @@
 ⭐️ researcher interested in [math, digital signal processing, and deep learning](https://www.researchgate.net/profile/Valery_Asiryan)  
 ⭐️ C# / Python / MATLAB [developer](https://github.com/asiryan)  
 
-### 🔭 Here are my
-⚡️ **Publications:** *V. Asiryan - Genus-One Fibrations and the Jacobian of Linear Slices in the Quintic Equal-Sum Problem ([arxiv.org/abs/2512.00551](https://arxiv.org/abs/2512.11072)) and [more](Publications)*  
+### 🔭 Open Source & Research
+⚡️ **Publications:** *V. Asiryan - Genus-One Fibrations and the Jacobian of Linear Slices in the Quintic Equal-Sum Problem ([arxiv.org/abs/2512.11072](https://arxiv.org/abs/2512.11072)) and [more](Publications)*  
 ⚡️ **Contributions:** *[onnx/models](https://github.com/onnx/models) - a collection of pre-trained, state-of-the-art models in the ONNX format*  
 ⚡️ **NuGet:** *UMapx, FaceONNX, OpenJDK.BigMathNET and [more](https://www.nuget.org/profiles/asiryan)* // 🔥 *over* ***450k*** *downloads*  
 ⚡️ **PyPI:** *caffe2onnx and [more](https://pypi.org/user/asiryan/)*  
