@@ -5,7 +5,7 @@
 🏆 Chief Technical Officer at [DM Basis](https://dmbasis.com/) [[Skolkovo]](https://sk.ru/)  
 🏆 Chief Technical Officer at [Retail Robotics Solutions](https://rrs-catering.eu) [[Astana Hub]](https://astanahub.com/en/)[[Station F]](https://stationf.co/)  
 ⭐️ Researcher interested in [Math, Digital Signal Processing, and Deep Learning](https://www.researchgate.net/profile/Valery_Asiryan)  
-⭐️ C# / Python / MATLAB [developer](https://github.com/asiryan)  
+⭐️ C# / Python / MATLAB [Developer](https://github.com/asiryan)  
 
 ### 🛠 Open Source and Research
 ⚡️ **Publications:** *V. Asiryan - Genus-One Fibrations and the Jacobian of Linear Slices in the Quintic Equal-Sum Problem ([arxiv.org/abs/2512.11072](https://arxiv.org/abs/2512.11072)) and [more](Publications)*  
