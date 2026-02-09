@@ -1,10 +1,10 @@
-### 👋 Hi there, I'm
+### 👋 Hi there, I'm Valery
 
-🎓 bachelor of [information technology](https://en.mtuci.ru/)  
-🎓 master of [computer science](https://en.misis.ru/)  
-🏆 chief technical officer in [DM Basis](https://dmbasis.com/) [[Skolkovo]](https://sk.ru/)  
-🏆 chief technical officer in [Retail Robotics Solutions](https://rrs-catering.eu) [[Astana Hub]](https://astanahub.com/en/)[[Station F]](https://stationf.co/)  
-⭐️ researcher interested in [math, digital signal processing, and deep learning](https://www.researchgate.net/profile/Valery_Asiryan)  
+🎓 Bachelor of [Information Technology](https://en.mtuci.ru/)  
+🎓 Master of [Computer Science](https://en.misis.ru/)  
+🏆 Chief Technical Officer at [DM Basis](https://dmbasis.com/) [[Skolkovo]](https://sk.ru/)  
+🏆 Chief Technical Officer at [Retail Robotics Solutions](https://rrs-catering.eu) [[Astana Hub]](https://astanahub.com/en/)[[Station F]](https://stationf.co/)  
+⭐️ Researcher interested in [Math, Digital Signal Processing, and Deep Learning](https://www.researchgate.net/profile/Valery_Asiryan)  
 ⭐️ C# / Python / MATLAB [developer](https://github.com/asiryan)  
 
 ### 🛠 Open Source and Research
@@ -12,8 +12,8 @@
 ⚡️ **Contributions:** *[onnx/models](https://github.com/onnx/models) - a collection of pre-trained, state-of-the-art models in the ONNX format*  
 ⚡️ **NuGet:** *UMapx, FaceONNX, OpenJDK.BigMathNET and [more](https://www.nuget.org/profiles/asiryan)* // 🔥 *over* ***500k*** *downloads*  
 ⚡️ **PyPI:** *caffe2onnx and [more](https://pypi.org/user/asiryan/)*  
-🔗 **Replicate:** *[me on replicate](https://replicate.com/asiryan)*  
-🔗 **HuggingFace:** *[me on huggingface](https://huggingface.co/asiryan)*
+🔗 **Replicate:** *[Me on replicate](https://replicate.com/asiryan)*  
+🔗 **HuggingFace:** *[Me on huggingface](https://huggingface.co/asiryan)*
 
 ### ☕️ Want to support me or buy me a coffee?
 ❤️ **USD**: [Become my GitHub sponsor](https://github.com/sponsors/asiryan)  
