@@ -12,8 +12,8 @@
 ⚡️ **Contributions:** *[onnx/models](https://github.com/onnx/models) - a collection of pre-trained, state-of-the-art models in the ONNX format*  
 ⚡️ **NuGet:** *UMapx, FaceONNX, OpenJDK.BigMathNET and [more](https://www.nuget.org/profiles/asiryan)* // 🔥 *over* ***500k*** *downloads*  
 ⚡️ **PyPI:** *caffe2onnx and [more](https://pypi.org/user/asiryan/)*  
-🔗 **Replicate:** *[Me on replicate](https://replicate.com/asiryan)*  
-🔗 **HuggingFace:** *[Me on huggingface](https://huggingface.co/asiryan)*
+🔗 **Replicate:** *[Me on Replicate](https://replicate.com/asiryan)*  
+🔗 **HuggingFace:** *[Me on HuggingFace](https://huggingface.co/asiryan)*
 
 ### ☕️ Want to support me or buy me a coffee?
 ❤️ **USD**: [Become my GitHub sponsor](https://github.com/sponsors/asiryan)  
