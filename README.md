@@ -10,7 +10,7 @@
 ### 🛠 Open Source and Research
 ⚡️ **Publications:** *V. Asiryan - Genus-One Fibrations and the Jacobian of Linear Slices in the Quintic Equal-Sum Problem ([arxiv.org/abs/2512.11072](https://arxiv.org/abs/2512.11072)) and [more](Publications)*  
 ⚡️ **Contributions:** *[onnx/models](https://github.com/onnx/models) - a collection of pre-trained, state-of-the-art models in the ONNX format*  
-⚡️ **NuGet:** *UMapx, FaceONNX, OpenJDK.BigMathNET and [more](https://www.nuget.org/profiles/asiryan)* // 🔥 *over* ***500k*** *downloads*  
+⚡️ **NuGet:** *UMapx, FaceONNX, OpenJDK.BigMathNET and [more](https://www.nuget.org/profiles/asiryan)* // 🔥 *over* ***550k*** *downloads*  
 ⚡️ **PyPI:** *caffe2onnx and [more](https://pypi.org/user/asiryan/)*  
 🔗 **Replicate:** *[Me on Replicate](https://replicate.com/asiryan)*  
 🔗 **HuggingFace:** *[Me on HuggingFace](https://huggingface.co/asiryan)*
