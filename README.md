@@ -3,7 +3,6 @@
 🎓 Bachelor of [Information Technology](https://en.mtuci.ru/)  
 🎓 Master of [Computer Science](https://en.misis.ru/)  
 🏆 Chief Technical Officer at [DM Basis](https://dmbasis.com/) [[Skolkovo]](https://sk.ru/)  
-🏆 Chief Technical Officer at [Retail Robotics Solutions](https://rrs-catering.eu) [[Astana Hub]](https://astanahub.com/en/)[[Station F]](https://stationf.co/)  
 ⭐️ Researcher interested in [Math, Digital Signal Processing, and Deep Learning](https://www.researchgate.net/profile/Valery_Asiryan)  
 ⭐️ C# / Python / MATLAB [Developer](https://github.com/asiryan)  
 
