@@ -11,7 +11,7 @@
 ⚡️ **Contributions:** *[onnx/models](https://github.com/onnx/models) - a collection of pre-trained, state-of-the-art models in the ONNX format*  
 ⚡️ **NuGet:** *UMapx, FaceONNX, EllipticCurves and [more](https://www.nuget.org/profiles/asiryan)* // 🔥 *over* ***600k*** *downloads*  
 ⚡️ **PyPI:** *caffe2onnx and [more](https://pypi.org/user/asiryan/)*  
-🔗 **Me on:** *[Replicate](https://replicate.com/asiryan)*, *[HuggingFace](https://huggingface.co/asiryan)*, *[Elliptic Curve Rank Leaderboard](https://elliptic-rank.icarm.cloud/user/89)*  
+🔗 **Me on** *[Replicate](https://replicate.com/asiryan)*, *[HuggingFace](https://huggingface.co/asiryan)*, *[Elliptic Curve Rank Leaderboard](https://elliptic-rank.icarm.cloud/user/89)*  
 
 ### ☕️ Want to support me or buy me a coffee?
 ❤️ **USD**: [Become my GitHub sponsor](https://github.com/sponsors/asiryan)  
