@@ -7,7 +7,7 @@
 ⭐️ C# / Python / MATLAB [Developer](https://github.com/asiryan)  
 
 ### 🛠 Open Source and Research
-⚡️ **Publications:** *V. Asiryan - Finiteness in Square Classes and Weighted Zero Density of Perfect Cuboids ([arxiv.org/abs/2609.38650](https://arxiv.org/abs/2609.38650)) and [more](Publications)*  
+⚡️ **Publications:** *V. Asiryan - Finiteness in Square Classes and Weighted Zero Density of Perfect Cuboids ([arxiv.org](https://arxiv.org/abs/2609.38650)) and [more](Publications)*  
 ⚡️ **Contributions:** *[onnx/models](https://github.com/onnx/models) - a collection of pre-trained, state-of-the-art models in the ONNX format*  
 ⚡️ **NuGet:** *UMapx, FaceONNX, EllipticCurves and [more](https://www.nuget.org/profiles/asiryan)* // 🔥 *over* ***600k*** *downloads*  
 ⚡️ **PyPI:** *caffe2onnx and [more](https://pypi.org/user/asiryan/)*  
