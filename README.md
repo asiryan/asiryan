@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Valery
 
-🎓 Bachelor of [Information Technology](https://en.mtuci.ru/)  
 🎓 Master of [Computer Science](https://en.misis.ru/)  
+🎓 Bachelor of [Information Technology](https://en.mtuci.ru/)  
 🏆 Chief Technical Officer at [DM Basis](https://dmbasis.com/) [[Skolkovo]](https://sk.ru/)  
 ⭐️ Researcher interested in [Math, Digital Signal Processing, and Deep Learning](https://www.researchgate.net/profile/Valery_Asiryan)  
 ⭐️ C# / Python / MATLAB [Developer](https://github.com/asiryan)  
